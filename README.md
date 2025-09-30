@@ -1,15 +1,11 @@
 # Hi there, I'm Joshua 👋  
 
-![Developer GIF](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)  
+![Developer GIF](https://i.giphy.com/lpHQvZu6stHKo.webp)  
 
 ## 🚀 About Me
-- 💻 Passionate developer exploring **Kotlin**, **Java**, **ASP.NET**, and **Next.js**  
+- 💻 Passionate developer exploring **PHP**, **Java**, **ASP.NET**, and **C#**  
 - 📊 Building apps that mix **finance**, **economics**, and **data visualization**  
-- 🎮 Gamer at heart — even relaxing games turn into sweaty, perfectionist micro-management sessions 😅  
-- 🛠️ Currently tinkering with:
-  - **Penny Wise** 💰 — a personal finance tracker with subscription tiers  
-  - **Diplomatic Economy Dashboard** 🌍 — world map viz using amCharts 5 in Next.js  
-  - **Student Exam Management App** 📝 — powered by ASP.NET  
+- 🎮 Gamer at heart — even relaxing games turn into sweaty, perfectionist micro-management sessions
 
 ---
 
