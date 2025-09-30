@@ -10,7 +10,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,c,c++,cs,python,dotnet,js,ts,react,nextjs,html,css,tailwind,bootstrap,php,laravel,codeigniter,mysql,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,py,dotnet,js,ts,react,nextjs,html,css,tailwind,bootstrap,php,laravel,mysql,postgres,git,linux" />
 </p>
 
 ---
