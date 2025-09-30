@@ -1,4 +1,4 @@
-![Developer GIF](https://i.giphy.com/lpHQvZu6stHKo.webp)  
+<div class="tenor-gif-embed" data-postid="846799789477017901" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/monhes-gif-846799789477017901">Monhes Sticker</a>from <a href="https://tenor.com/search/monhes-stickers">Monhes Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 🚀 About Me
 - 💻 Passionate developer exploring **PHP**, **Java**, **ASP.NET**, and **C#**  
