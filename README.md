@@ -4,12 +4,13 @@
 - 💻 Passionate developer exploring **PHP**, **Java**, **ASP.NET**, and **C#**  
 - 📊 Building apps that mix **finance**, **economics**, and **data visualization**  
 - 🎮 Gamer at heart — even relaxing games turn into sweaty, perfectionist micro-management sessions
-
+- 🛠️ Currently tinkering with:
+  - **Work Projects** 💼 — helping with company's internal application development. 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,js,ts,react,nextjs,html,css,tailwind,bootstrap,php,laravel,codeigniter,mysql,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,c,c++,cs,python,dotnet,js,ts,react,nextjs,html,css,tailwind,bootstrap,php,laravel,codeigniter,mysql,postgres,git,linux" />
 </p>
 
 ---
