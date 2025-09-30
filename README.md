@@ -1,5 +1,3 @@
-# Hi there, I'm Joshua 👋  
-
 ![Developer GIF](https://i.giphy.com/lpHQvZu6stHKo.webp)  
 
 ## 🚀 About Me
