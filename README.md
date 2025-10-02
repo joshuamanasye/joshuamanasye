@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://media.tenor.com/hlprB1O1EgkAAAAi/parrot-dance.gif" style="margin: 0 15px;" />
-  <img src="https://media.tenor.com/uHlkZ5Z-lq0AAAAi/minecraft-blue.gif" style="margin: 0 15px;" />
-  <img src="https://media.tenor.com/C8Bv7AenOS0AAAAi/monhes.gif" style="margin: 0 15px;" />
+    <img src="https://media.tenor.com/hlprB1O1EgkAAAAi/parrot-dance.gif" height="80" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://media.tenor.com/uHlkZ5Z-lq0AAAAi/minecraft-blue.gif" height="80" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://media.tenor.com/C8Bv7AenOS0AAAAi/monhes.gif" height="80" />
 </p>
 
 ## 🚀 About Me
