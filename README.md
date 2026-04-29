@@ -11,7 +11,9 @@
 - 📊 Building apps that mix **finance**, **economics**, and **data visualization**  
 - 🎮 Gamer at heart — even relaxing games turn into sweaty, perfectionist micro-management sessions
 - 🛠️ Currently tinkering with:
-  - **Work Projects** 💼 — helping with company's internal application development. 
+  - **Thesis** 🎓
+  - **University Projects** 📚
+  - **Work Projects** 💼
 ---
 
 ## 🧰 Tech Stack
